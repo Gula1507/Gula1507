@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Aygul, also known as Gula, and I am a passionate Java programmer. I’m from Russia and have been living in Germany since 2008.
+My name is Aygul, also known as Gula, and I am a passionate Java programmer.
 
-- 🔭 I'm looking for job as Java-Developer.
+- 🔭 I'm looking for job as Java-Developer in Berlin.
 - 🌱 I’m currently working on [KursDa-Weiterbildungsfinder](https://github.com/Gula1507/weiterbildungsfinder).
 - 💬 Ask me how to level up German from A2 to C1 in one year or how to easily build an online shop. 😊
 - ⚡ Fun fact: In Russia, "Java" was a cigarette brand with a bad smell. 🚬 Now, the only thing that smells in Java is "Code Smells"! 😄
