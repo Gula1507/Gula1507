@@ -2,7 +2,6 @@
 
 My name is Aygul, also known as Gula. I am a passionate Java programmer living in Berlin.
 
-- 🌱 I’m currently working on [Mini-CMS](https://github.com/Gula1507/mini-cms) and [KursDa-Weiterbildungsfinder](https://github.com/Gula1507/weiterbildungsfinder)
 - 💬 Ask me how to level up German from A2 to C1 in one year or how to easily build an online shop. 😊
 - ⚡ Fun fact: In Russia, "Java" was a cigarette brand with a bad smell. 🚬 Now, the only thing that smells in Java is "Code Smells"! 😄
 
